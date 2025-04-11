@@ -1,5 +1,5 @@
 {
-  "name": "𝙱.𝙼.𝙱-𝚇𝙼𝙳",
+  "name": "𝗡𝗢𝗩𝗔-𝗫𝗠𝗗",
   "description": "Javascript WhatsApp bot made by 𝙱.𝙼.𝙱-𝚇𝙼𝙳 ",
   "keywords": ["𝗡𝗢𝗩𝗔-𝗫𝗠𝗗"],
   
@@ -88,19 +88,19 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": " ©𝙱.𝙼.𝙱-𝚇𝙼𝙳🌟"
+      "value": "𝗡𝗢𝗩𝗔-𝗫𝗠𝗗✨"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255767862455"
+      "value": "255767862457"
  },
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝙱.𝙼.𝙱-𝚇𝙼𝙳"
+      "value": "𝗡𝗢𝗩𝗔-𝗫𝗠𝗗"
 
       }, 
 
@@ -120,7 +120,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*©𝙱.𝙼.𝙱-𝚇𝙼𝙳*"
+      "value": "*𝗡𝗢𝗩𝗔-𝗫𝗠𝗗*"
     },
 
       "DELETE_LINKS": {
