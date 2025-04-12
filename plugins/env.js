@@ -55,7 +55,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363352087070233@newsletter',
+                        newsletterJid: '120363382023564830@newsletter',
                         newsletterName: "𝐓𝐇𝐄 𝗡𝗢𝗩𝗔-𝗫𝗠𝗗 𝐒𝐄𝐓𝐓𝐈𝐍𝐆𝐒🥰",
                         serverMessageId: 143
                     }
