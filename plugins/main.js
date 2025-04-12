@@ -253,7 +253,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/bmb300/NOVA-XMD-DATA/raw/refs/heads/main/KingHans/Menu.mp3' },
+            audio: { url: 'https://files.catbox.moe/wify3q.mp3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
