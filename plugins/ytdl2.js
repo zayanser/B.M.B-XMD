@@ -54,7 +54,7 @@ cmd({
             document: { url: data.result.download_url }, 
             mimetype: "video/mp4", 
             fileName: `${data.result.title}.mp4`, 
-            caption: `*${yts.title}*\n> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs🎐*`
+            caption: `*${yts.title}*\n> *© 𝗡𝗢𝗩𝗔-𝗫𝗠𝗗🎐*`
         }, { quoted: mek });
 
     } catch (e) {
