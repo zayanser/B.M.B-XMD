@@ -19,7 +19,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 let dec = `    
 ⟣──────────────────⟢
-▧ *ᴄʀᴇᴀᴛᴏʀ* : *ᴍʀ bmbxmd  (🇹🇿)*
+▧ *ᴄʀᴇᴀᴛᴏʀ* : *B.M.B-XMD  (🇹🇿)*
 ▧ *ᴍᴏᴅᴇ* : *${config.MODE}*
 ▧ *ᴘʀᴇғɪx* : *${config.PREFIX}*
 ▧ *ʀᴀᴍ* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
@@ -33,11 +33,11 @@ let dec = `
 ⟣──────────────────⟢
 ${readMore}
 \`CHANNEL🛠️\`
-https://tinyurl.com/26kh6jss
+https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z
 
 \`GROUP\` 👥
 
-https://tinyurl.com/26kh6jss
+https://chat.whatsapp.com/JpIXcc3AndB3d9pdK2Cg1I
 
 \`𝗡𝗢𝗩𝗔-𝗫𝗠𝗗\` *Dev🧑‍💻*
 
@@ -57,7 +57,7 @@ await conn.sendMessage(
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363352087070233@newsletter',
+                        newsletterJid: '120363382023564830@newsletter',
                         newsletterName: '『 𝗡𝗢𝗩𝗔-𝗫𝗠𝗗 』',
                         serverMessageId: 143
                     }
@@ -68,7 +68,7 @@ await conn.sendMessage(
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/a1sh4u.mp3' },
+            audio: { url: 'https://files.catbox.moe/wify3q.mp3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
@@ -78,3 +78,4 @@ await conn.sendMessage(
         reply(`${e}`);
     }
 });
+    
