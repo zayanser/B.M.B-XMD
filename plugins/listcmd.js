@@ -298,7 +298,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/nk5ip2.jpg` },
+                image: { url: `https://files.catbox.moe/i4491v.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -306,7 +306,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363382023564830@newsletter',
-                        newsletterName: '💫 𝗡𝗢𝗩𝗔-𝗫𝗠𝗗 💫',
+                        newsletterName: '⚡ 𝗡𝗢𝗩𝗔-𝗫𝗠𝗗 ⚡',
                         serverMessageId: 143
                     }
                 }
@@ -316,7 +316,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/bmb300/NOVA-XMD-DATA/raw/refs/heads/main/KingHans/Menu.mp3' },
+            audio: { url: 'https://files.catbox.moe/wify3q.mp3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
