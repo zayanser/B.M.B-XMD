@@ -1,7 +1,7 @@
 {
-  "name": "𝗡𝗢𝗩𝗔-𝗫𝗠𝗗",
+  "name": "𝐁.𝐌.𝐁-𝐗𝐌𝐃",
   "description": "Javascript WhatsApp bot made by 𝙱.𝙼.𝙱-𝚇𝙼𝙳 ",
-  "keywords": ["𝗡𝗢𝗩𝗔-𝗫𝗠𝗗"],
+  "keywords": ["𝐁.𝐌.𝐁-𝐗𝐌𝐃"],
   
   
   "logo": "https://ibb.co/Cs0L5Rj0",
@@ -88,7 +88,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝗡𝗢𝗩𝗔-𝗫𝗠𝗗✨"
+      "value": "𝐁.𝐌.𝐁-𝐗𝐌𝐃✨"
 }, 
 
     "OWNER_NUMBER": {
@@ -100,7 +100,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝗡𝗢𝗩𝗔-𝗫𝗠𝗗"
+      "value": "𝐁.𝐌.𝐁-𝐗𝐌𝐃"
 
       }, 
 
@@ -120,7 +120,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*𝗡𝗢𝗩𝗔-𝗫𝗠𝗗*"
+      "value": "*𝐁.𝐌.𝐁-𝐗𝐌𝐃*"
     },
 
       "DELETE_LINKS": {
@@ -150,14 +150,14 @@
     "OWNER_REACT": {
       "description": "Make it true if you only want react on Owner Massages.",
       "required": false,
-      "value": "true"
+      "value": "false"
       
     }, 
     
     "CUSTOM_REACT": {
       "description": "Make it true if you want custom reactions.",
       "required": false,
-      "value": "true"
+      "value": "false"
       
     }, 
     
