@@ -23,7 +23,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/i4491v.jpg` },
+                image: { url: `https://i.ibb.co/7txWYFwF/nexus-xmd.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -31,7 +31,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363382023564830@newsletter',
-                        newsletterName: "𝗡𝗢𝗩𝗔-𝗫𝗠𝗗  𝐀𝐃𝐔𝐋𝐓 𝐌𝐄𝐍𝐔🔞🔞₊",
+                        newsletterName: "𝐁.𝐌.𝐁-𝐗𝐌𝐃  𝐀𝐃𝐔𝐋𝐓 𝐌𝐄𝐍𝐔🔞🔞₊",
                         serverMessageId: 143
                     }
                 }
