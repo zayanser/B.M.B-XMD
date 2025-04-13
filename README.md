@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/mrfr8nk/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfr8nk?color=00ffff&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/mrfrankofcc/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrankofcc/SUBZERO-MD?color=00ffff&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/mrfrankofcc/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrankofcc/SUBZERO-MD?color=00ffff&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/mrfrankofcc/𝐁.𝐌.𝐁-𝐗𝐌𝐃/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrankofcc/𝐁.𝐌.𝐁-𝐗𝐌𝐃?color=00ffff&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/mrfrankofcc/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrankofcc/𝐁.𝐌.𝐁-𝐗𝐌𝐃?color=00ffff&style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/mrfrankofcc/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrankofcc/SUBZERO-MD?style=for-the-badge&color=00ffaa&logo=docusign&logoColor=white"></a>
   <a href="https://github.com/mrfrankofcc/SUBZERO-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
