@@ -9,18 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+𝐁.𝐌.𝐁-𝐗𝐌𝐃;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
 
-<div align="center">
-  <a href="https://github.com/mrfr8nk/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfr8nk?color=00ffff&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/mrfrankofcc/𝐁.𝐌.𝐁-𝐗𝐌𝐃/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrankofcc/𝐁.𝐌.𝐁-𝐗𝐌𝐃?color=00ffff&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/mrfrankofcc/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrankofcc/𝐁.𝐌.𝐁-𝐗𝐌𝐃?color=00ffff&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/mrfrankofcc/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrankofcc/𝐁.𝐌.𝐁-𝐗𝐌𝐃?style=for-the-badge&color=00ffaa&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/mrfrankofcc/SUBZERO-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=𝐁.𝐌.𝐁-𝐗𝐌𝐃&label=VISITORS&style=flat-square&color=00ffff" />
-</p>
-
 > **Current Bot Version `3.2.0`**  
 
 ---
