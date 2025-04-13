@@ -13,7 +13,7 @@ function isEnabled(_0x3264b4) {
   return _0x3264b4 && _0x3264b4.toString().toLowerCase() === "true";
 }
 cmd({
-  'pattern': "Bmb",
+  'pattern': "bmbxmd",
   'alias': ["settings", "allvar", 'botsettings'],
   'desc': "Settings of bot",
   'category': "menu",
