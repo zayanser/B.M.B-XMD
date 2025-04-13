@@ -1,88 +1,117 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=KHAN-MD-V4.0" alt="Typing SVG" /></a>
-  </p>
-  
----  
 
-> **`Updated To` The Version 4.0**
---- 
 
-<a><img src='https://i.ibb.co/bg6NchXh/nexus-xmd.jpg'/></a>
-
----
 
 <p align="center">
-  <a href="https://github.com/bmbxmd"><img title="Developer" src="https://img.shields.io/badge/Author-Jawad%20TechX-FF7604.svg?style=big-square&logo=github" /></a>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">SUBZERO-MD</h1>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
-  
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z)
+  <a href="https://github.com/mrfr8nk/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfr8nk?color=00ffff&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/mrfrankofcc/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrankofcc/SUBZERO-MD?color=00ffff&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/mrfrankofcc/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrankofcc/SUBZERO-MD?color=00ffff&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/mrfrankofcc/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrankofcc/SUBZERO-MD?style=for-the-badge&color=00ffaa&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/mrfrankofcc/SUBZERO-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{𝐁.𝐌.𝐁-𝐗𝐌𝐃}/count.svg" alt="XdTechPro :: Visitor's Count" old_src="https://profile-counter.glitch.me/{XdTechPro}/count.svg" /></p>
-
-
 <p align="center">
-<a href="https://github.com/bmbxmd/B.M.B-XMD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=B.M.B-XMD&label=VIEWS&style=square&color=blue" />
-</p>
-</p> 
-
-<p align="center">
-  <a href="https://github.com/bmbxmd/B.M.B-XMD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SUBZERO-MD&label=VISITORS&style=flat-square&color=00ffff" />
 </p>
 
+> **Current Bot Version `3.2.0`**  
 
-### 1. Fork This Repository
-
-Start by forking this repository to your own GitHub account. Click the button below to fork:
-
-  <a href="https://github.com/bmbxmd/B.M.B-XMD/fork"><img title="𝐁.𝐌.𝐁-𝐗𝐌𝐃" src="https://img.shields.io/badge/FORK-B.M.B-XMD-h?color=green&style=for-the-badge&logo=stackshare"></a>
-
-> Get Pair Code (Session ID)
-
-<p align="left">  
-<a href='https://khanmdx.onrender.com' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
-</p>  
-
-> Get Pair Code (Session ID)
-
-<p align="left">  
-<a href='https://jawadmdx.onrender.com' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-ff0000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
-</p>  
-
-
-🚀 Deploy 𝐁.𝐌.𝐁-𝐗𝐌𝐃🇹🇿
-
-> Deploy on Heroku
-
-
-
-<p align="left">  
-<a href='https://dashboard.heroku.com/new?template=https://github.com/bmbxmd/B.M.B-XMD/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
-</p>
-
-> Deploy on TaikDrove
-
-
-
-<p align="left">  
-<a href='https://host.talkdrove.com/share-bot/82' target="_blank"><img alt='Deploy on TaikDrove' src='https://img.shields.io/badge/Deploy%20on-TaikDrove-6971FF?style=for-the-badge&logo=google-cloud&logoColor=white'/></a>  
-</p>
-
-> Deploy on Koyeb
-
-
-
-<p align="left">  
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=XdTechPro/B.M.B-XMD&ports=3000' target="_blank"><img alt='Deploy on Koyeb' src='https://img.shields.io/badge/Deploy%20on-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
-</p>
-
-> View Workflow Codes
-
-
-
-<p align="left">  
-<a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j/1368" target="_blank"><img alt='View Workflow Codes' src='https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=githubactions&logoColor=white'/></a>  
-</p>  
 ---
+
+```
+Dont forget to fork & star repo
+```
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/wQOgFCH.jpeg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 25px #0088ff;"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/divider.gif?raw=true" width="100%"/>
+</div>
+<div align="center">
+  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
+</div>
+
+## 🚀 Deployment Steps
+
+<div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
+  
+### <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/forkicon.gif?raw=true" width="25"/> 1. Fork This Repository
+  
+<div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
+  <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
+  <a href='https://github.com/mrfrankofcc/SUBZERO-MD/fork' target="_blank">
+    <img src='https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
+  </a>
+</div>
+
+</div>
+
+<div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
+
+### <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Get Session ID
+  
+<div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
+  
+--- 
+  > **⚠️ OPTION ONE**
+  <a href='https://subzero-docs.vercel.app' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br>
+  
+  <div style="height: 10px;"></div>
+  
+  > **⚠️ OPTION TWO**
+  <a href='https://zaynixxd.biz.id/' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a>
+  
+  ---
+  <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
+    <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
+    Connection issues may require VPN activation
+  </p>
+</div>
+
+</div>
+
+<div align="center">
+  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+</div>
+
+## 🚀 DEPLOYMENT OPTIONS
+
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/mrfrankofcc/SUBZERO-MD/tree/main" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://talkdrove.com/share-bot/11" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=mrfrankofcc/SUBZERO-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+      <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
+</div>
