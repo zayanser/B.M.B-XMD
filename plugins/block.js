@@ -14,7 +14,7 @@ async (conn, mek, m, { from, isOwner, quoted, reply }) => {
     const user = quoted.sender;
     try {
         await conn.updateBlockStatus(user, 'block');
-        reply('🚫💫 𝗡𝗢𝗩𝗔-𝗫𝗠𝗗 💫 User ' + user + ' blocked successfully.');
+        reply('🚫💫 𝐁.𝐌.𝐁-𝐗𝐌𝐃 💫 User ' + user + ' blocked successfully.');
     } catch (error) {
         reply('❌ Error blocking user: ' + error.message);
     }
