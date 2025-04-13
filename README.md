@@ -31,18 +31,18 @@ Dont forget to fork & star repo
   <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/divider.gif?raw=true" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
+  <img src="https://github.com/bmbxmd/B.M.B-XMD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
 </div>
 
 ## 🚀 Deployment Steps
 
 <div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
   
-### <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/forkicon.gif?raw=true" width="25"/> 1. Fork This Repository
+### <img src="https://github.com/bmbxmd/B.M.B-XMD/blob/main/assets/forkicon.gif?raw=true" width="25"/> 1. Fork This Repository
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
-  <a href='https://github.com/mrfrankofcc/SUBZERO-MD/fork' target="_blank">
+  <a href='https://github.com/bmbxmd/B.M.B-XMD/fork' target="_blank">
     <img src='https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
   </a>
 </div>
