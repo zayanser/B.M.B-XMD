@@ -54,14 +54,14 @@ Dont forget to fork & star repo
   
 --- 
   > **⚠️ OPTION ONE**
-  <a href='https://pairs-rzev.onrender.com/pair' target="_blank">
+  <a href='https://bmb-session-plag.onrender.com/pair' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
   <div style="height: 10px;"></div>
   
   > **⚠️ OPTION TWO**
-  <a href='[https://pairs-rzev.onrender.com/pair]' target="_blank">
+  <a href='[https://hanstz-site-vortex-xmd.onrender.com/pair]' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
   
