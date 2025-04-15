@@ -8,11 +8,6 @@
   
 ---
   </p>
-  
----
-> **Current Bot Version `3.2.0`**  
-
----
 
 ```
 Dont forget to fork & star repo
