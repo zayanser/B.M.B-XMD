@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typingsvg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+𝐁.𝐌.𝐁-𝐗𝐌𝐃;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+  <img src="https://readme-typingsvg.demolab.com-font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+𝐁.𝐌.𝐁-𝐗𝐌𝐃;FAST++SECURE++RELIABLE" alt="Animated Typing SVG"/>
 </p>
 
 > **Current Bot Version `3.2.0`**  
