@@ -90,7 +90,7 @@ async (conn, mek, m, { from, reply }) => {
 
 > *a whatsapp bot that enhance your experience with amazing features,developed by bmb 🇹🇿.*🔥
 
-*𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐔𝐒𝐄𝐈𝐍𝐆 NEXUS-𝐗𝐌𝐃🫶* 
+*𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐔𝐒𝐄𝐈𝐍𝐆 B.M.B-𝐗𝐌𝐃🫶* 
 
 > *ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ🌟🍴*
 
@@ -108,6 +108,9 @@ ${readMore}
 
 \`FORKS:\`🍴
 > ${repoData.forks_count}
+
+\`FOLLOWERS:\`📑
+> ${repoData.followers_count}
 
 \`DESCRIPTION:\`📃
 > ${repoData.description || 'No description'}\n
