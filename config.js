@@ -5,13 +5,13 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "B.m.b-Xmd~5e9CwZaZ#MAqUQLyEfbcVkkgkAr-J4Q3nj3KSYFKcdGHDo8pXFhE",
+SESSION_ID: process.env.SESSION_ID || "B.m.b-Xmd~5C9SzDxA#wMyUCI2JFa1bqGzqcvqgmKAHk5cKNrarqRya7zcsTmE",
 // add your Session Id 
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
-BOT_NAME: process.env.BOT_NAME || "✦ B.M.B-XMD ✦ XMD ✦",
+BOT_NAME: process.env.BOT_NAME || "✦ *_✵ ̶ᷞ҉ꪶ𝐅𝐎𝐔𝐑🕊️𝐅𝐈𝐍𝐆𝐄𝐑𝐒𝆺𝅥🧚🏻ꫂ_* ✦",
 // add bot namw here for menu
-CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
+CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🔥,❤️‍🩹,❤️,🩷,🧡,💛,💚,💙,🩵,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself 
@@ -23,21 +23,21 @@ OWNER_NAME: process.env.OWNER_NAME || "✦🍒⃟◄▣𝚭𝚫𝐘𝚫𝚴 𒋲
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ✦🍒⃟◄▣𝚭𝚫𝐘𝚫𝚴 𒋲 𝚭𝚵𝚪🍃▣► ✦*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/p9hyal.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/dy7eyh.png",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || ">B.M.B IS ACTIVE AND ALIVE\n\n\nKEEP USING B.M.B-XMD FROM B.M.B TECH INC⚡",
+LIVE_MSG: process.env.LIVE_MSG || "𝗭𝗔𝗬𝗔𝗡𝗦𝗘𝗥 IS ACTIVE AND ALIVE\n\n\nKEEP USING B.M.B-XMD FROM B.M.B TECH INC⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
 AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
-ANTI_BAD: process.env.ANTI_BAD || "false",
+ANTI_BAD: process.env.ANTI_BAD || "true",
 // false or true for anti bad words
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*🎉👀 Seen by B.m.b-xmd 🚀🔥*",
+AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*🎉👀 Seen by 𝗭𝗔𝗬𝗔𝗡𝗦𝗘𝗥 🚀🔥*",
 // set the auto reply massage on status reply    
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
